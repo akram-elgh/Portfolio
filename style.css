@@ -32,18 +32,47 @@ hr{
   width: 38px;
   margin: 100px auto;
 }
+.navbar{
+  width: 85%;
+  margin: auto;
+}
+.navbar-brand{
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  font-weight: 700;
+  font-size: 28px;
+}
+.navbar-brand>img{
+  margin-right: 10px;
+  background-color: #446969;
+  border-radius: 15px;
+  border: 2px solid ;
+}
+.nav-link{
+  font-family: 'Montserrat';
+  color: black;
+  font-size: medium;
+  font-size: 20px;
+  font-weight: 20px;
+}
+.nav-link:hover{
+  color: grey;
+}
+img{
+  vertical-align: unset;
+}
 .top-container {
   background-color: #EAF6F6;
   position: relative;
-  padding-top: 100px;;
+  /* padding-top: 100px; */
 }
 .middle-container{
   margin: 100px 0;
 }
 .top-cloud{
   position: absolute;
-  right: 25%;
-  top: 5%;
+  right: 15%;
+  top: 35%;
   width: 15%;
 }
 p{
