@@ -42,15 +42,20 @@ hr{
 }
 .top-cloud{
   position: absolute;
-  right: 550px;
-  top: 50px;
+  right: 25%;
+  top: 5%;
+  width: 15%;
 }
 p{
   line-height: 2;
 }
 .bottom-cloud{
   position: absolute;
-  left: 400px;
+  left: 20%;
+  width: 15%;
+}
+.mountain-img{
+  width: 50%;
 }
 .skill-row{
   height: 256px;
